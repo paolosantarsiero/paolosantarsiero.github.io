@@ -20,17 +20,25 @@
 
 title: Paolo Santarsiero
 email: paolosantarsiero9@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Consulente informatico
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Consulente informatico
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username:
 github_username:  paolosantarsiero
 
 # Build settings
-theme: jekyll-theme-cayman
+#heme: jekyll-theme-cayman
+remote_theme: ngzhio/jekyll-theme-hamilton
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+# Theme parameters
+skin: midnight
+author: Paolo Santarsiero
+avatar: /images/avatar.jpeg
+location: Torino, IT
 
 # Exclude from processing.
 # The following items will not be processed, by default.
