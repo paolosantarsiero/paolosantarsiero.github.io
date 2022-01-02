@@ -40,6 +40,59 @@ it: &DEFAULT_IT
     body: "Mi sono laureato in Informatica presso l'Università degli Studi di Salerno. Dopo aver concluso il percorso triennale mi sono dedicato allo sviluppo di un progetto personale, un'applicazione Android e iOS, riguardo la disciplina sportiva Slackline. Attraverso questa esperienza ho migliorato le mie capacità di sviluppo di applicazioni mobile ibride utilizzando Firebase come infrastruttura back-end. Ho lavorato spesso in progetti che utilizzano servizi di geolocalizzazione, in particolare, Google Maps SDK, Geocoding Api e Place Api. A fronte di varie collaborazioni con diverse start-up ho deciso di aprire la partiva iva e diventare un libero professionista."
     section: about
 
+  timeline:
+    title: "Formazione"
+    text: "Quando si ha una buona indole, non c’è bisogno d’altro"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Liceo Scientifico A.Gatto"
+        year: "2009-2014"
+        desc: "Ho frequentato il percorso sperimentale conseguendo il diploma con voto 78/100."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Università degli studi di Salerno"
+        year: "2014-2018"
+        desc: "Laurea triennale presso il dipartimento di Informatica con votazione pari a 88 (?) non mi ricordo, presentando come tesi lo sviluppo dell'applicazione mobile SlackSpot ancora presente sugli store."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Sviluppatore Android Freelancer"
+        year: "2018-In Corso"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Università degli studi di Torino"
+        year: "2018-In corso"
+        desc: "Your description here, **Markdown** is fully supported."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Tirocinio e Collaborazione presso Atlas Consulting srl"
+        year: "2019-In Corso"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        # you can enforce the alignment
+        align: right
+    end: "In <br> progress <br>"
+
+  skills:
+    section: skills
+    max-height: 400px
+    list:
+      - title: "HTML5"
+        value: 80
+      - title: "CSS3"
+        value: 60
+      - title: "Javascript"
+        value: 90
+      - title: "PHP"
+        value: 60
+      - title: "Java"
+        value: 80
+      - title: "Python"
+        value: 80    
+
   clients:
     section: clients
     max-height: 100px
@@ -124,7 +177,24 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
+    list:
+      - title: "Atlas"
+        url: https://atlasconsulting.it/
+        logo: assets/images/atlas.png
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  skills:
+    section: skills
+    max-height: 400px
     list:
       - title: "Atlas"
         url: https://atlasconsulting.it/
