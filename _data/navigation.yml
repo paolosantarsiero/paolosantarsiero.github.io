@@ -1,4 +1,35 @@
-- title: Projects
-  url: /projects/
-- title: About
-  url: /about/
+# Italian
+# -------
+it: &DEFAULT_IT
+  nav:
+    - title: "Servizi"
+      section: servizi
+    - title: "Portfolio"
+      section: portfolio
+    - title: "Chi sono"
+      section: about
+    - title: "Contatti"
+      section: contatti
+it-IT:
+  <<: *DEFAULT_IT
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  nav:
+    - title: "Services"
+      section: services
+    - title: "Portfolio"
+      section: portfolio
+    - title: "About"
+      section: about
+    - title: "Contact"
+      section: contact
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN

@@ -1,1 +1,0 @@
-# Consulente informatico

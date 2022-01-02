@@ -29,16 +29,25 @@ github_username:  paolosantarsiero
 
 # Build settings
 #heme: jekyll-theme-cayman
-remote_theme: ngzhio/jekyll-theme-hamilton
+remote_theme: raviriley/agency-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+locale: "it-IT" # See available languages in _data/sitetext.yml
+
+analytics:
+  google: #Google Analytics tracking code here
+
+collections:
+  portfolio:
+
+markdown: kramdown
 # Theme parameters
-skin: midnight
-author: Paolo Santarsiero
-avatar: /images/avatar.jpeg
-location: Torino, IT
+# skin: midnight
+# author: Paolo Santarsiero
+# avatar: /assets/images/avatar.jpeg
+# location: Torino, IT
 
 # Exclude from processing.
 # The following items will not be processed, by default.
