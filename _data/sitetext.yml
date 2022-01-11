@@ -19,10 +19,10 @@ it: &DEFAULT_IT
         desc: "Sviluppo di siti web repsonsive esclusivamente personalizzati che rispecchino le idee del Cliente utilizzando i più avanzati linguaggi di programmazione."
         icon: fas fa-laptop
       - title: "E-commerce"
-        desc: "Pacchetto comprendente sia sito web che app mobile per il tuo e-commerce."
+        desc: "Sviluppo dell'intera infrastruttura per il tuo e-commerce. Realizza il sia il sito web che l'app mobile per il tuo e-commerce completamente ad-hoc."
         icon: fas fa-shopping-cart
       - title: "IoT"
-        desc: "Sviluppo di tecnologie e applicativi che possono interfacciarsi al mondo IoT."
+        desc: "Sviluppo di tecnologie e applicativi che si interfacciano con il mondo IoT."
         icon: fas fa-project-diagram
 
   portfolio:
@@ -34,7 +34,7 @@ it: &DEFAULT_IT
   about:
     title: "Chi sono"
     text: "Full Stack Developer versatile, affidabile e competente"
-    body: "Mi sono laureato in Informatica presso l'Università degli Studi di Salerno. Dopo aver concluso il percorso triennale mi sono dedicato allo sviluppo di un progetto personale, un'applicazione Android e iOS, riguardo la disciplina sportiva Slackline. Attraverso questa esperienza ho migliorato le mie capacità di sviluppo di applicazioni mobile ibride utilizzando Firebase come infrastruttura back-end. Ho lavorato spesso in progetti che utilizzano servizi di geolocalizzazione, in particolare, Google Maps SDK, Geocoding Api e Place Api. A fronte di varie collaborazioni con diverse start-up ho deciso di aprire la partiva iva e diventare un libero professionista."
+    body: ""
     section: about
 
   timeline:

@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: SMCovid_19
   subtitle: App mobile per Android e iOS
-  thumbnail: assets/images/crearch.png
+  thumbnail: assets/images/smcovid.webp
   
 #what displays when the item is clicked:
 title: SMCovid_19
 subtitle: App mobile per Android e iOS
-image: assets/images/crearch.png
+image: assets/images/smcovid.webp
 
 ---
 Creative European ARCHives as innovative cultural hubs is a project, financed by UE, developed by Banco di Napoli Foundation as the leader of a partnership composed of Icarus Hrvatska, University of the Peloponnese, Regionaal Historisch Centrum Limburg.
