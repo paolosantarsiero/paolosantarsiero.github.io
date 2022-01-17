@@ -15,12 +15,12 @@ it: &DEFAULT_IT
       - title: "App mobile"
         desc: "Sviluppo di applicazioni mobile sia per Android che per iOS su misura e di alta qualità, garantendo una consulenza puntuale e continua in fase di progettazione, realizzazione e pubblicazione sugli store."
         icon: fas fa-mobile-alt #find more at https://fontawesome.com/icons
-      - title: "Siti Web"
-        desc: "Sviluppo di siti web repsonsive esclusivamente personalizzati che rispecchino le idee del Cliente utilizzando i più avanzati linguaggi di programmazione."
-        icon: fas fa-laptop
       - title: "E-commerce"
         desc: "Sviluppo dell'intera infrastruttura per il tuo e-commerce. Realizza il sia il sito web che l'app mobile per il tuo e-commerce completamente ad-hoc."
         icon: fas fa-shopping-cart
+      - title: "Siti Web"
+        desc: "Sviluppo di siti web repsonsive esclusivamente personalizzati che rispecchino le idee del Cliente utilizzando i più avanzati linguaggi di programmazione."
+        icon: fas fa-laptop
       - title: "IoT"
         desc: "Sviluppo di tecnologie e applicativi che si interfacciano con il mondo IoT."
         icon: fas fa-project-diagram
@@ -124,7 +124,6 @@ it: &DEFAULT_IT
     submit: "Invia"
 
   footer:
-    legal: "Privacy"
     social:
       - url: https://www.linkedin.com/in/paolo-santarsiero/
         icon: "fab fa-linkedin-in"
@@ -222,7 +221,6 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"

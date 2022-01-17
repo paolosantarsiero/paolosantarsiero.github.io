@@ -7,7 +7,9 @@ it: &DEFAULT_IT
     - title: "Portfolio"
       section: portfolio
     - title: "Chi sono"
-      section: about
+      section: timeline
+    - title: "Clienti"
+      section: clients
     - title: "Contatti"
       section: contatti
 it-IT:
@@ -22,7 +24,9 @@ en: &DEFAULT_EN
     - title: "Portfolio"
       section: portfolio
     - title: "About"
-      section: about
+      section: timeline
+    - title: "Clienti"
+      section: clients
     - title: "Contact"
       section: contact
 en-US:

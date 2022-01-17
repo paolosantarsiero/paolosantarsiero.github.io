@@ -10,5 +10,7 @@ subtitle: Piattaforma Web e IoT
 image: assets/images/trucky.png
 alt: image alt text
 
+website_url: http://test-trucky.s3-website.us-east-2.amazonaws.com/#/
+
 ---
-La soluzione integrata per le flotte di logistica. Riduce i consumi di carburante (fino al 10%). Richiede un investimento minimo
+La soluzione integrata per le flotte di logistica: riduce i consumi di carburante (fino al 10%). La webapp è in grado di fornire al conducente la velocità ottimale per ridurre i consumi, velocità calcolata grazie all'interconessione del sistema fisico a bordo del veicolo e l'infrastruttura web.
