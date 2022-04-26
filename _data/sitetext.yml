@@ -16,10 +16,10 @@ it: &DEFAULT_IT
         desc: "Sviluppo di applicazioni mobile sia per Android che per iOS su misura e di alta qualità, garantendo una consulenza puntuale e continua in fase di progettazione, realizzazione e pubblicazione sugli store."
         icon: fas fa-mobile-alt #find more at https://fontawesome.com/icons
       - title: "E-commerce"
-        desc: "Sviluppo dell'intera infrastruttura per il tuo e-commerce. Realizza il sia il sito web che l'app mobile per il tuo e-commerce completamente ad-hoc."
+        desc: "Sviluppo dell'intera infrastruttura per il tuo e-commerce. Realizza in un unico pacchetto sia il sito web che l'app mobile per il tuo e-commerce."
         icon: fas fa-shopping-cart
       - title: "Siti Web"
-        desc: "Sviluppo di siti web repsonsive esclusivamente personalizzati che rispecchino le idee del Cliente utilizzando i più avanzati linguaggi di programmazione."
+        desc: "Sviluppo di siti web e web app repsonsive esclusivamente personalizzati che rispecchino le idee del Cliente utilizzando le più avanzate tecnologie di sviluppo."
         icon: fas fa-laptop
       - title: "IoT"
         desc: "Sviluppo di tecnologie e applicativi che si interfacciano con il mondo IoT."
@@ -59,14 +59,14 @@ it: &DEFAULT_IT
         desc: "Una volta terminato gli studi ho continuato a seguire il mio progetto personale SlackSpot raffinando così le conoscenze sullo sviluppo Android. In parallelo ho iniziato a sviluppare i primi progetti come freelancer, prendendo consapevolezza dei cosa mi appasionasse nella vita."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Università degli studi di Torino"
-        year: "2018-In corso"
-        desc: "Iscrizione alla laurea magistrale in Intelligenza artificiale e sistemi informatici presso il dipartimento di Informatica dell'Università degli studi di Torino, continuando a lavorare come freelancer."
-        image: assets/img/timeline/4.jpg
+    #   - title: "Università degli studi di Torino"
+    #     year: "2018-In corso"
+    #     desc: "Iscrizione alla laurea magistrale in Intelligenza artificiale e sistemi informatici presso il dipartimento di Informatica dell'Università degli studi di Torino, continuando a lavorare come freelancer."
+    #     image: assets/img/timeline/4.jpg
         alt:
-      - title: "Tirocinio e collaborazione presso Atlas srl"
+      - title: "Collaborazione presso Atlas srl"
         year: "2019-In Corso"
-        desc: "Tirocinio presso l'azienda Atlas srl come sviluppatore Web. Questa esperienza mi ha dato modo di apprendere la metodologia Agile per coordinare le attività di sviluppo di un progetto, formazione importante per la carriera professionale. Tutt'ora utilizzo questo approccio per rendere partecipe il Cliente alla fase di sviluppo."
+        desc: "Collaboratore esterno come FullStack Developer presso l'azienda Atlas srl. Questa esperienza mi ha dato modo di apprendere la metodologia Agile per coordinare le attività di sviluppo di un progetto, formazione importante per la carriera professionale. Tutt'ora utilizzo questo approccio per rendere partecipe il Cliente alla fase di sviluppo."
         image: assets/img/timeline/3.jpg
         alt: image alt text
     end: "In <br> progress <br>"
@@ -110,7 +110,7 @@ it: &DEFAULT_IT
 
   contact:
     title: "Contattami"
-    text: "Hai un progetto che vorresti realizzare? Contattami utilizzando il form in basso per richiedere una collaborazione o un preventivo gratuito."
+    text: "Hai un progetto che vorresti realizzare? Contattami utilizzando il form in basso per richiedere un preventivo gratuito!"
     section: contatti
     name: "Nome*"
     name-validation: "Inserisci il tuo nome."
@@ -129,8 +129,6 @@ it: &DEFAULT_IT
         icon: "fab fa-linkedin-in"
       - url: https://github.com/paolosantarsiero
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 it-IT:
   <<: *DEFAULT_IT
 
