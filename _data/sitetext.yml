@@ -13,13 +13,13 @@ it: &DEFAULT_IT
     section: servizi
     list:
       - title: "App mobile"
-        desc: "Sviluppo di applicazioni mobile sia per Android che per iOS su misura e di alta qualità, garantendo una consulenza puntuale e continua in fase di progettazione, realizzazione e pubblicazione sugli store."
+        desc: "Sviluppo di applicazioni mobile cross-platform su misura e di alta qualità, garantendo una consulenza puntuale e continua in fase di progettazione, realizzazione e pubblicazione sugli store."
         icon: fas fa-mobile-alt #find more at https://fontawesome.com/icons
       - title: "E-commerce"
-        desc: "Sviluppo dell'intera infrastruttura per il tuo e-commerce. Realizza in un unico pacchetto sia il sito web che l'app mobile per il tuo e-commerce."
+        desc: "Realizzazione dell'intera infrastruttura per il tuo e-commerce. Realizza in un unico pacchetto sia il sito web che l'app mobile per il tuo shop online."
         icon: fas fa-shopping-cart
       - title: "Siti Web"
-        desc: "Sviluppo di siti web e web app repsonsive esclusivamente personalizzati che rispecchino le idee del Cliente utilizzando le più avanzate tecnologie di sviluppo."
+        desc: "Sviluppo di piattaforme web esclusivamente personalizzate che rispecchino le idee del Cliente utilizzando le più avanzate tecnologie di sviluppo."
         icon: fas fa-laptop
       - title: "IoT"
         desc: "Sviluppo di tecnologie e applicativi che si interfacciano con il mondo IoT."
@@ -46,17 +46,17 @@ it: &DEFAULT_IT
     events:
       - title: "Liceo Scientifico A.Gatto"
         year: "2009-2014"
-        desc: "Ho frequentato il percorso sperimentale conseguendo il diploma con voto 78/100. In questi anni è nata la passione per l'informatica iniziando a così i primi progetti sperimentali."
+        desc: "Ho frequentato il percorso sperimentale conseguendo il diploma con voto 78/100. Sebbene sono sempre stato appassionato di tecnologia, in questi anni ho capito che il mio obiettivo era diventare informatico, iniziando così a sviluppare i primi progetti didattici e di sperimentazione."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Università degli studi di Salerno"
         year: "2014-2018"
-        desc: "Laurea triennale presso il dipartimento di Informatica con votazione pari a 98, presentando come tesi lo sviluppo dell'applicazione mobile SlackSpot ancora presente sugli store."
+        desc: "Laurea triennale presso il dipartimento di Informatica con votazione pari a 98, presentando come tesi lo sviluppo dell'applicazione mobile SlackSpot ancora presente sugli store. In questo percorso ho avuto modo di sperimentare diversi campi dell'informatica prestando attenzione soprattutto allo sviluppo software."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Sviluppatore Mobile Freelancer"
         year: "2018-In Corso"
-        desc: "Una volta terminato gli studi ho continuato a seguire il mio progetto personale SlackSpot raffinando così le conoscenze sullo sviluppo Android. In parallelo ho iniziato a sviluppare i primi progetti come freelancer, prendendo consapevolezza dei cosa mi appasionasse nella vita."
+        desc: "Una volta terminati ho iniziato a realizzare le prime applicazioni come freelancer, sperimentando sempre nuove tecnologie e acquisendo più consapevolezza degli strumenti di sviluppo. Più crescevo e più riuscivo a ottenere fiducia dai miei Clienti e così ho capito di dover investire su di me e diventare un libero professionasta a 360 gradi."
         image: assets/img/timeline/3.jpg
         alt: image alt text
     #   - title: "Università degli studi di Torino"
@@ -66,7 +66,7 @@ it: &DEFAULT_IT
         alt:
       - title: "Collaborazione presso Atlas srl"
         year: "2019-In Corso"
-        desc: "Collaboratore esterno come FullStack Developer presso l'azienda Atlas srl. Questa esperienza mi ha dato modo di apprendere la metodologia Agile per coordinare le attività di sviluppo di un progetto, formazione importante per la carriera professionale. Tutt'ora utilizzo questo approccio per rendere partecipe il Cliente alla fase di sviluppo."
+        desc: "Collaboratore esterno come FullStack Developer presso l'azienda Atlas Consulting. Quest'esperienza mi ha dato modo di conoscere la realtà aziendale, la coordinazione in team, apprendere la metodologia Agile, rimanere aggiornato e sperimentare nuove teconologie e al contempo soddisfare le richieste del cliente. Tutt'ora utilizzo questo approccio per rendere partecipe il Cliente alla fase di sviluppo."
         image: assets/img/timeline/3.jpg
         alt: image alt text
     end: "In <br> progress <br>"
@@ -78,17 +78,19 @@ it: &DEFAULT_IT
     max-height: 400px
     list:
       - title: "HTML5"
-        value: 80
+        value: 90
       - title: "CSS3"
-        value: 60
+        value: 70
       - title: "Javascript"
         value: 90
       - title: "PHP"
-        value: 60
+        value: 70
       - title: "Java"
-        value: 80
+        value: 90
       - title: "Python"
-        value: 80    
+        value: 80
+      - title: "Dart"
+        value: 20
 
   clients:
     section: clients
