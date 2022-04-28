@@ -54,7 +54,7 @@ it: &DEFAULT_IT
         desc: "Laurea triennale presso il dipartimento di Informatica con votazione pari a 98, presentando come tesi lo sviluppo dell'applicazione mobile SlackSpot ancora presente sugli store."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Sviluppatore Android Freelancer"
+      - title: "Sviluppatore Mobile Freelancer"
         year: "2018-In Corso"
         desc: "Una volta terminato gli studi ho continuato a seguire il mio progetto personale SlackSpot raffinando così le conoscenze sullo sviluppo Android. In parallelo ho iniziato a sviluppare i primi progetti come freelancer, prendendo consapevolezza dei cosa mi appasionasse nella vita."
         image: assets/img/timeline/3.jpg
